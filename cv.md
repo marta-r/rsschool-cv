@@ -15,7 +15,6 @@ In the future, I see myself in Front-end development.
 - Illustration
 - Wireframing
 - User Flow
-- Information Architecture
 - Adobe
   - Photoshop
   - Illustrator
