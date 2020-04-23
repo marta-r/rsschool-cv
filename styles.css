@@ -1,0 +1,28 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+
+}
+
+a {
+  font-weight: 700;
+  color: #6978ba;
+}
+
+section {
+  margin-top: 50px;
+}
+
+.photo {
+  border-radius: 50%;
+}
+
+.contacts {
+  padding-left: 20px;
+  border-left: 2px solid #6978ba;
+}
+
+.wrapper {
+  max-width: 1024px;
+  margin: 0 auto;
+}
